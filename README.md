@@ -9,10 +9,6 @@ You can reset before the time runs out (60 seconds) and reset your score and tim
 * CSS
 * JavaScript
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
 ## Authors
 
 * **Tharusha Herath** - [My Github](https://github.com/tharushaH)
