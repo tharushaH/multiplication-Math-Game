@@ -15,7 +15,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Tharusha Herath** - https://github.com/tharushaH
+* **Tharusha Herath** - [My Github](https://github.com/tharushaH)
 
 ## License
 
